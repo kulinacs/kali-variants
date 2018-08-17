@@ -1,0 +1,37 @@
+! X FreeType
+Xft.antialias:         1
+Xft.hinting:           1
+Xft.rgba:              rgb
+Xft.hintstyle:         hintslight
+Xft.lcdfilter:         lcddefault
+
+! URxvt
+URxvt.scrollBar:       false
+URxvt.fading:          5
+URxvt.visualBell:      false
+URxvt.font:            xft:dejavu sans mono:size=12:antialias=true
+URxvt.boldFont:        xft:dejavu sans mono:bold:size=12:antialias=true
+URxvt.letterSpace:     -.5
+URxvt.geometry:        80x28
+URxvt.scrollTtyOutput: false
+URxvt.cursorUnderline: true
+
+! Colors
+*background:           #212121
+*foreground:           #FAFAFA
+*color0:               #212121
+*color1:               #BD2727
+*color2:               #5AD840
+*color3:               #E7E532
+*color4:               #3874D8
+*color5:               #9F389F
+*color6:               #43C4F3
+*color7:               #FAFAFA
+*color8:               #263238
+*color9:               #E91E63
+*color10:              #8BC34A
+*color11:              #FFC107
+*color12:              #3F51B5
+*color13:              #673AB7
+*color14:              #03A9F4
+*color15:              #ECEFF1

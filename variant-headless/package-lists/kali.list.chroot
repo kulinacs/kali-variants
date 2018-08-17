@@ -1,0 +1,50 @@
+# Kali Base
+kali-linux
+kali-desktop-live
+kali-defaults
+
+## Usability
+
+# Terminal base
+zsh
+tmux
+grc
+
+# Editor
+emacs-nox
+
+# General
+ftp
+git
+ranger
+
+# Programming
+python3
+python3-pip
+golang
+
+## Security tools
+
+# Enumeration
+curl
+ldnsutils
+nmap
+
+# Web
+dirbuster
+gobuster
+nikto
+sqlmap
+
+# Exploitation
+exploitdb
+metasploit-framework
+
+# Reversing
+gdb
+radare2
+
+# Bruteforce
+hydra
+john
+wordlists
